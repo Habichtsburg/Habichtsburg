@@ -12,7 +12,7 @@
 
 ### 🔬 About Me
 
-- 🔭 **Current Focus**: Scientific Computing & **AI4S (AI for Science)** projects
+- 🔭 **Current Focus**: Scientific Computing & AI4S (AI for Science) projects
 - 🌱 **Learning**: Deep Learning architectures & advanced algorithm optimization
 - 👯 **Open to Collaborate**: Python-based scientific research & open-source tools
 - 💬 **Ask Me About**: Python development & engineering practices
