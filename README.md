@@ -34,14 +34,13 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <!-- 主数据卡片与常用语言并排对齐 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ShannonClaude&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShannonClaude&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="Top Languages" />
+  <!-- 连续打卡统计 -->
+  <img src="https://streak-stats.demolab.com?user=ShannonClaude&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <!-- 连续打卡天数统计（抗限流备用服务） -->
-  <img src="https://streak-stats.demolab.com?user=ShannonClaude&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
+  <!-- 动态贡献趋势图（非常稳定） -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShannonClaude&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 ---
