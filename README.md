@@ -33,7 +33,13 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Habichtsburg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <!-- 使用稳定的镜像节点，防止 403 频率限制导致图片破损 -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Habichtsburg&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Habichtsburg&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <!-- 连续打卡统计 -->
   <img src="https://streak-stats.demolab.com?user=Habichtsburg&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
